@@ -1,0 +1,11 @@
+﻿  Tests.cpp
+c:\users\lenovo\desktop\лабораторные работы по информатике\laboratorywork2.2\laboratorywork2.2\shellsort.h(13): warning C4101: B: неиспользованная локальная переменная
+  c:\users\lenovo\desktop\лабораторные работы по информатике\laboratorywork2.2\laboratorywork2.2\shellsort.h(9): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\lenovo\desktop\лабораторные работы по информатике\laboratorywork2.2\laboratorywork2.2\tests.cpp(231): note: выполняется компиляция ссылки на экземпляр шаблон функции "Sequence<T> *ShellSort<T>::Implementation(Sequence<T> *)"
+          with
+          [
+              T=int
+          ]
+  c:\users\lenovo\desktop\лабораторные работы по информатике\laboratorywork2.2\laboratorywork2.2\tests.cpp(229): note: выполняется компиляция ссылки на экземпляр шаблон класс "ShellSort<int>"
+c:\users\lenovo\desktop\лабораторные работы по информатике\laboratorywork2.2\laboratorywork2.2\shellsort.h(13): warning C4101: A: неиспользованная локальная переменная
+  LaboratoryWork2.2.vcxproj -> C:\Users\lenovo\Desktop\Лабораторные работы по информатике\LaboratoryWork2.2\Debug\LaboratoryWork2.2.exe
